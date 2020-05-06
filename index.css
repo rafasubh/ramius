@@ -1,0 +1,23 @@
+body {
+	font-family: Georgia, serif;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+	font-size: 32px;
+}
+
+h2 {
+	color: #ffffff;
+	font-size: 56px; 
+}
+
+
+.hero {
+	background-image: url('https://pbs.twimg.com/media/EXRrFLMVAAEcSTy?format=jpg&name=medium');
+	background-position: center top;
+	background-size: cover;
+	padding: 250px 0;
